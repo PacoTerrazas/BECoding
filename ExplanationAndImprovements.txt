@@ -1,0 +1,8 @@
+Hi. 
+I opted for this particular approach after conducting an initial analysis. This choice stems from its perceived simplicity and efficiency, which, in my assessment, aligns most effectively with the requirements of the task at hand.
+
+However, I believe there is room for improvement in the existing implementation, presenting several opportunities for enhancement:
+
+1.Input Validation: The current approach of relying on the Scanner for input fulfillment may not be the most robust method. Entrusting the user without adequate validation poses a potential vulnerability, creating an open area susceptible to bugs and erroneous input.
+
+2.Exception Handling:It is advisable to incorporate try-catch blocks to handle potential exceptions that may arise during the execution. This practice ensures a more resilient and fault-tolerant system, improving the overall robustness of the codebase.
